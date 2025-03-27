@@ -908,6 +908,15 @@
   background-position: center;
 }
 
+
+/* .elementor-16 .elementor-element.elementor-element-c420e76:not(.elementor-motion-effects-element-type-background),
+.elementor-16 .elementor-element.elementor-element-c420e76>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+  background-image: url("../assets/images/boothstall.jpeg");
+  background-size: cover;
+  background-position: center;
+
+} */
+
 .elementor-16 .elementor-element.elementor-element-a125c94,
 .elementor-16 .elementor-element.elementor-element-a125c94::before {
   --border-transition: 0.3s;
@@ -1132,7 +1141,7 @@
 
 .elementor-16 .elementor-element.elementor-element-443a48b:not(.elementor-motion-effects-element-type-background),
 .elementor-16 .elementor-element.elementor-element-443a48b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-  background-image: url("../assets/images/free.jpg");
+  background-image: url("../assets/images/free.jpeg");
   background-size: cover;
   background-position: center;
 }
