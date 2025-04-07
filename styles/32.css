@@ -2216,6 +2216,7 @@
 
     .elementor-504 .elementor-element.elementor-element-3b11899.elementor-element {
         --align-self: center;
+        width: auto;
     }
 
     .elementor-504 .elementor-element.elementor-element-3b11899 {
@@ -2648,6 +2649,12 @@
 
     .elementor-504 .elementor-element.elementor-element-fa387cc {
         --width: auto;
+    }
+}
+
+@media(max-width:768px) {
+    .elementor-504 .elementor-element.elementor-element-3b11899.elementor-element {
+        width: 100%;
     }
 }
 
