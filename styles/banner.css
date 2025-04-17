@@ -1,0 +1,10 @@
+.banner {
+    height: 600px !important;
+}
+
+@media screen and (max-width: 768px) {
+    .banner {
+        height: 100% !important;
+    }
+
+}
